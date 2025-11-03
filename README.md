@@ -1,5 +1,7 @@
 # Course Management System
 
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/CourseContentCreator)**
+
 ## Project Description
 
 This project is a command-line interface (CLI) application for managing university courses and student enrollments. It provides a simple menu-driven interface for users to perform various administrative tasks.
