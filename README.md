@@ -1,6 +1,6 @@
 # Course Management System
 
-**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/CourseContentCreator)**
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/project.html?id=course-content-creator)**
 
 ## Project Description
 
